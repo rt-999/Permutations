@@ -98,9 +98,7 @@ shared/      big-paginator, permutation-chips, pipes   (Presentational component
 
 xUnit לשלוש שכבות: אלגוריתמים (כולל השוואה בין `Unrank` ל-`NextPermutation` על כל האינדקסים של n קטן), `PageCalculator`, ה-Store (כולל 1000 בקשות מקבילות על Session אחד), ה-Service, ובדיקות אינטגרציה של ה-API עם `WebApplicationFactory`.
 
-## רעיונות להמשך
+## תשובות לשאלות
+התשובות לשאלות נמצאות בקובץ 
+ANSWERS
 
-- `RedisSessionStore` ובדיקות אינטגרציה מולו.
-- Rate Limiting ולוגים מובנים.
-- בדיקות ללקוח (רכיבים וה-Store).
-- אפשרות לדפדף גם לפני נקודת הכניסה.
