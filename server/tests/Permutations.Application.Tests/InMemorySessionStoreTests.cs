@@ -1,5 +1,5 @@
 using Permutations.Domain.Exceptions;
-using Permutations.Domain.Sessions;
+using Permutations.Application.Sessions;
 using Permutations.Infrastructure.Sessions;
 
 namespace Permutations.Application.Tests;

@@ -5,7 +5,7 @@ using Permutations.Application.Options;
 using Permutations.Application.Paging;
 using Permutations.Domain.Algorithms;
 using Permutations.Domain.Exceptions;
-using Permutations.Domain.Sessions;
+using Permutations.Application.Sessions;
 
 namespace Permutations.Application.Services;
 

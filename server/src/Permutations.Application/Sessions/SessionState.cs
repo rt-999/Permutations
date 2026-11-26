@@ -1,4 +1,4 @@
-namespace Permutations.Domain.Sessions;
+namespace Permutations.Application.Sessions;
 
 public sealed class SessionState
 {

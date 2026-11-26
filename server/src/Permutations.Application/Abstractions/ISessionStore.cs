@@ -1,4 +1,4 @@
-using Permutations.Domain.Sessions;
+using Permutations.Application.Sessions;
 
 namespace Permutations.Application.Abstractions;
 

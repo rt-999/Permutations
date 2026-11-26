@@ -3,7 +3,7 @@ using System.Security.Cryptography;
 using Microsoft.Extensions.Options;
 using Permutations.Application.Abstractions;
 using Permutations.Domain.Exceptions;
-using Permutations.Domain.Sessions;
+using Permutations.Application.Sessions;
 
 namespace Permutations.Infrastructure.Sessions;
 

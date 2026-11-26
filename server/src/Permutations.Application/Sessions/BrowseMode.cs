@@ -1,3 +1,3 @@
-namespace Permutations.Domain.Sessions;
+namespace Permutations.Application.Sessions;
 
 public enum BrowseMode { Single, Browsing }
